@@ -1,7 +1,7 @@
 ## Hi there, I am Hooman Zolfaghari 👋
 I am a computer science student at Sharif University of Technology.
 
-🌱 I’m currently learning Machine Learning and Artifitial Intelligence. I'm looking for research opportunities in these fields and my favorite area is Renforcement Learning 🧠.
+🌱 I’m currently studying Machine Learning and Artifitial Intelligence. I'm looking for research opportunities in these fields and my favorite area is Renforcement Learning 🧠.
 
 I also love creating video games 🎮.
 <!--
