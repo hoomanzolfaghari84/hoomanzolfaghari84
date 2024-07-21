@@ -2,6 +2,7 @@
 I am a computer science student at Sharif University of Technology.
 
 🌱 I’m currently studying Machine Learning and Artificial Intelligence 🧠.
+
 🔎 I'm looking for research opportunities in these fields.
 
 🎮 I also love creating video games.
