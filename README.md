@@ -3,9 +3,9 @@ I am a computer science student at Sharif University of Technology.
 
 ⚡ I love everything about Math and Computers
 
-🌱 I’m currently studying Machine Learning and Artificial Intelligence 🧠.
+🌱 I’m currently studying Machine Learning 🧠.
 
-🔎 I like doing research in these fields.
+🔎 I like doing research in Deep Learning and Applied Probability.
 
 🎮 I also enjoy creating video games as a coding hobby.
 
